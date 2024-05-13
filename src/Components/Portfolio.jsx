@@ -31,10 +31,10 @@ const imageAltText = "Artificial Intelligence";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CineMine",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A movie and TV show collection website where you can hold on to top-rated and your favortite movies/ TV shows",
+    url: "https://github.com/Eyshcharya/CineMine",
   },
   {
     title: "Web Development for Beginners",
