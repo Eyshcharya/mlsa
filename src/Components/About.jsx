@@ -24,7 +24,7 @@ const imageAltText = "software developer coding in his laptop";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "A goal-oriented software engineer with expertise in both front-end and back-end development specialising in front-end technologies. Currently pursuing BCS PGD in IT. Skilled in designing intuitive user interfaces and collaborating with cross-functional teams. Committed to delivering innovative solutions while contributing to project success. 👩🏻‍💻🚀";
 
 /**
  * List of some of skills or technologies you work on, are learning,
